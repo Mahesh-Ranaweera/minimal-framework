@@ -35,11 +35,26 @@
     <!--main content goes inside content-->
     <div class="content">
         <div class="card shadow-light radius">
-            <h2>Content</h2>
-            <p>Following groups</p>
+            <h2>Minimal web development framework</h2>
+            <a href="#GRID">
+                <div class="col-20 txt-center nav-btn">GRID</div>
+            </a>
+            <a href="#INPUTS">
+                <div class="col-20 txt-center nav-btn">INPUTS</div>
+            </a>
+            <a href="#TEXT">
+                <div class="col-20 txt-center nav-btn">TEXT</div>
+            </a>
+            <a href="#FORMS">
+                <div class="col-20 txt-center nav-btn">FORMS</div>
+            </a>
+            <a href="#TABLES">
+                <div class="col-20 txt-center nav-btn">TABLES</div>
+            </a>
         </div>
         
-        <div class="card shadow-light radius">
+        <div class="card shadow-light radius" id="GRID">
+           <txt-h1>GRID</txt-h1>
             <div class="group">
                 <div class="col-10">col-10</div>
                 <div class="col-10">col-10</div>
@@ -156,8 +171,20 @@
             <div class="col-10">col-10</div>
             <div class="col-10">col-10</div>
         </div>
-
         <div class="card shadow-light radius">
+            <div class="col-100">
+                <code>&lt;div class=&#39;group&#39;&gt;</code><br>
+                <code class="indent">&lt;div class=&#39;col-90&#39;&gt;content goes here&lt;&#47;div&gt;</code><br>
+                <code>&lt;&#47;div&gt;</code>
+            </div>
+        </div>
+
+       <div class="spacer"></div>
+       
+        <div class="card shadow-light radius" id="INPUTS">
+           <div class="col-100">
+               <txt-h1>BUTTONS</txt-h1>
+           </div>
             <div class="col-50">
                 <input type="button" class="input-btn radius submit" value="Button text" />
             </div>
@@ -177,7 +204,7 @@
                 <input type="button" class="input-btn radius primary" value="Button text" />
             </div>
         </div>
-
+        
         <div class="card shadow-light radius">
             <div class="col-50">
                 <input type="text" class="input-text radius" placeholder="Input text" />
@@ -187,7 +214,19 @@
             </div>
         </div>
         
-        <div class="card shadow-light radius">
+        <div class="card shadow-light radius" id="FORMS">
+           <div class="col-100">
+               <txt-h1>FORMS</txt-h1>
+           </div>
+            <div class="col-100">
+                <input type="text" class="input-text radius" placeholder="Enter Email" />
+                <input type="text" class="input-text radius" placeholder="Enter Password" />
+            </div>
+        </div>
+
+        
+        
+        <div class="card shadow-light radius" id="TEXT">
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
         </div>
         
