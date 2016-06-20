@@ -79,3 +79,23 @@ a.hover {
     color: rgba(0, 0, 0, 0.4);
     background-color: rgba(0, 0, 0, 0.01);
 }
+
+.page-logo {
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+    float: left;
+    background: url(../assets/svg/logo-min.svg);
+}
+
+.page-heading {
+    width: auto;
+    height: 50px;
+    line-height: 50px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.84);
+    float: left;
+}

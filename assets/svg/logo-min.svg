@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<rect x="7.72" y="7.72" transform="matrix(0.7071 0.7071 -0.7071 0.7071 25.0005 -10.3553)" fill="#EEEEEE" width="34.561" height="34.561"/>
+<path fill="#283747" d="M2.5,25l11.25,11.25l2.813-2.813L8.125,25l8.438-8.438L13.75,13.75L2.5,25z"/>
+<path fill="#1A5276" d="M25,2.5L13.75,13.75l2.813,2.813L25,8.125l8.438,8.438l2.813-2.813L25,2.5z"/>
+<path fill="#A93226" d="M47.5,25L36.25,13.75l-2.813,2.813L41.875,25l-8.438,8.438l2.813,2.813L47.5,25z"/>
+<path fill="#17A589" d="M25,47.5l11.25-11.25l-2.813-2.813L25,41.875l-8.438-8.438L13.75,36.25L25,47.5z"/>
+<g>
+	<path fill="#34495E" d="M28.73,19l-3.721,5.145L22,20.03v3.71L24.74,27h0.44L29,22.31V31h2V19H28.73z M19,31h2v-8.7v0.07V19h-2V31z
+		"/>
+</g>
+<circle fill="#EEEEEE" cx="9.75" cy="9.75" r="1.5"/>
+<circle fill="#EEEEEE" cx="40.75" cy="9.75" r="1.5"/>
+<circle fill="#EEEEEE" cx="9.75" cy="39.75" r="1.5"/>
+<circle fill="#EEEEEE" cx="40.75" cy="40.75" r="1.5"/>
+<rect fill="none" width="50" height="50"/>
+</svg>
