@@ -367,6 +367,16 @@ txt-h1 {
     color: #17202A;
 }
 
+subtxt {
+    text-indent: 10px;
+    font-weight: 400;
+    padding: 2px;
+    font-size: 18px;
+    box-sizing: border-box;
+    width: 100%;
+    color: #17202A;
+}
+
 .txt-center {
     text-align: center;
 }
@@ -387,4 +397,24 @@ txt-h1 {
     float: left;
     padding: 20px;
     margin-bottom: 5px;
+}
+
+table, tr, th, td {
+    border-style: none;
+    width: 100%;
+    text-indent: 10px;
+}
+
+th{
+        background-color: rgba(236, 240, 241, 0.5);
+}
+
+.tables {
+    width: 20%;
+    height: 40px;
+    border: 1px solid #ecf0f1;
+}
+
+.code-set {
+    margin-bottom: 50px;
 }
